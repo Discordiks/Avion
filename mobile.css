@@ -1,0 +1,32 @@
+@media screen and(max-width:1010px) {
+    .hero__container {
+        position: relative;
+        padding-left: 24px;
+        padding-right: 24px;
+        padding-top: 47px;
+        padding-bottom: 32px;
+        min-height: 256px;
+    }
+
+    .hero__text h1 {
+        font-size: 24px;
+    }
+
+    .hero__text p {
+        font-size: 16px;
+    }
+
+    .hero__btn a {
+        width: 100%;
+        text-align: center;
+    }
+
+    .hero {
+        height: 592px;
+    }
+
+    .features__column {
+        flex: 0 1 100%;
+    }
+
+}
